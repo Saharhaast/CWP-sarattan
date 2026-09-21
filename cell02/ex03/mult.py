@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 first_num = int(input("Enter the first number:\n"))
 second_num = int(input("Enter the second number:\n"))
 
